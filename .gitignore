@@ -1,0 +1,5 @@
+.DS_Store
+.env
+node_modules
+package-lock.json
+2.1 Secrets - Starting Code.zip
